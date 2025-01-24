@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "706655840943",
+    "project_id": "alyoong-chat-app-bf872",
+    "storage_bucket": "alyoong-chat-app-bf872.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706655840943:android:de75770945dfb916d2c25a",
+        "android_client_info": {
+          "package_name": "com.alyoong.alyoongchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJSivYD33vuHUaqIGMDfrvur699iezppI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706655840943:android:5cb0a07d5dfdc1f3d2c25a",
+        "android_client_info": {
+          "package_name": "com.alyoong.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJSivYD33vuHUaqIGMDfrvur699iezppI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706655840943:android:0ce93f5965c1caacd2c25a",
+        "android_client_info": {
+          "package_name": "com.esaunggul.alyoongchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJSivYD33vuHUaqIGMDfrvur699iezppI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
