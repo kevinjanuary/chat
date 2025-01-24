@@ -56,4 +56,7 @@ dependencies {
     implementation(platform(libs.firebase.bom))
 
     implementation(libs.multidex)
+
+    implementation(libs.retrofit)
+    implementation(libs.converter.scalars)
 }

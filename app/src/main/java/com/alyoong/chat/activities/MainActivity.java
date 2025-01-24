@@ -8,8 +8,6 @@ import android.util.Base64;
 import android.view.View;
 import android.widget.Toast;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import com.alyoong.chat.adapters.RecentConversationsAdapter;
 import com.alyoong.chat.databinding.ActivityMainBinding;
 import com.alyoong.chat.listeners.ConversationListener;
@@ -30,7 +28,7 @@ import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 
-public class MainActivity extends AppCompatActivity implements ConversationListener {
+public class MainActivity extends BaseActivity implements ConversationListener {
     private ActivityMainBinding binding;
     private PreferenceManager preferenceManager;
     private List<ChatMessage> conversations;
