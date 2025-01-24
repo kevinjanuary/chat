@@ -66,7 +66,7 @@ public class SignInActivity extends AppCompatActivity {
                         startActivity(intent);
                     } else{
                         loading(false);
-                        showToast("Enable to sign in");
+                        showToast("Unable to sign in");
                     }
                 });
     }
